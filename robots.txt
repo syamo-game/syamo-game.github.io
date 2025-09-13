@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://syamo-game.github.io/sitemap.xml
